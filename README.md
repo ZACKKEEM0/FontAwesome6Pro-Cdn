@@ -9,7 +9,7 @@ You can use with this method<br>
 This for use with cdn:
 <br>
 ```
-<link rel="stylesheet" href="https://doniws.github.io/FontAwesome6Pro/pro/css/all.css" >
+<link rel="stylesheet" href="https://zackkeem0.github.io/FontAwesome6Pro-Cdn.github.io/pro/css/all.css" >
  ```
 
 Or if you get Local you can get 
